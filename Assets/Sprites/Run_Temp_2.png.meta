@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: b6d38bfb7cb252846ab637d9f2aef951
+timeCreated: 1454512691
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Run_Temp_2_0
+    21300002: Run_Temp_2_1
+    21300004: Run_Temp_2_2
+    21300006: Run_Temp_2_3
+    21300008: Run_Temp_2_4
+    21300010: Run_Temp_2_5
+    21300012: Run_Temp_2_6
+    21300014: Run_Temp_2_7
+    21300016: Run_Temp_2_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Run_Temp_2_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 41
+        width: 180
+        height: 197
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_Temp_2_1
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 41
+        width: 160
+        height: 193
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_Temp_2_2
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 41
+        width: 128
+        height: 187
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_Temp_2_3
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 41
+        width: 154
+        height: 191
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_Temp_2_4
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 41
+        width: 186
+        height: 191
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_Temp_2_5
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 41
+        width: 174
+        height: 193
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_Temp_2_6
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 41
+        width: 139
+        height: 187
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_Temp_2_7
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 41
+        width: 139
+        height: 185
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_Temp_2_8
+      rect:
+        serializedVersion: 2
+        x: 2261
+        y: 41
+        width: 190
+        height: 182
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,297 @@
+fileFormatVersion: 2
+guid: ce6d10ed939aba146992f716138e4dd9
+timeCreated: 1457372918
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Cannon All_0
+    21300002: Cannon All_1
+    21300004: Cannon All_2
+    21300006: Cannon All_3
+    21300008: Cannon All_4
+    21300010: Cannon All_5
+    21300012: Cannon All_6
+    21300014: Cannon All_7
+    21300016: Cannon All_8
+    21300018: Cannon All_10
+    21300020: Cannon All_11
+    21300022: Cannon All_14
+    21300024: Cannon All_15
+    21300026: Cannon All_16
+    21300028: Cannon All_17
+    21300030: Cannon All_18
+    21300032: Cannon All_19
+    21300034: Cannon All_23
+    21300036: Cannon All_24
+    21300038: Cannon All_25
+    21300040: Cannon All_26
+    21300042: Cannon All_27
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Cannon All_0
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1885
+        width: 285
+        height: 480
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cannon All_1
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1885
+        width: 368
+        height: 480
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cannon All_2
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 1865
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cannon All_3
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 2336
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cannon All_4
+      rect:
+        serializedVersion: 2
+        x: 2318
+        y: 1884
+        width: 550
+        height: 480
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cannon All_5
+      rect:
+        serializedVersion: 2
+        x: 3088
+        y: 1867
+        width: 453
+        height: 480
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cannon All_6
+      rect:
+        serializedVersion: 2
+        x: 4695
+        y: 1832
+        width: 304
+        height: 480
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cannon All_7
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1900
+        width: 322
+        height: 480
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cannon All_8
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 2092
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cannon All_10
+      rect:
+        serializedVersion: 2
+        x: 3875
+        y: 1835
+        width: 313
+        height: 480
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cannon All_11
+      rect:
+        serializedVersion: 2
+        x: 5483
+        y: 1815
+        width: 293
+        height: 480
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cannon All_14
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1071
+        width: 304
+        height: 480
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cannon All_15
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1050
+        width: 384
+        height: 480
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cannon All_16
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 1085
+        width: 411
+        height: 480
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cannon All_17
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 1139
+        width: 309
+        height: 480
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cannon All_18
+      rect:
+        serializedVersion: 2
+        x: 2537
+        y: 1114
+        width: 269
+        height: 480
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cannon All_19
+      rect:
+        serializedVersion: 2
+        x: 3169
+        y: 1145
+        width: 227
+        height: 480
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cannon All_23
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 77
+        width: 327
+        height: 480
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cannon All_24
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 76
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cannon All_25
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 93
+        width: 303
+        height: 480
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cannon All_26
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 122
+        width: 350
+        height: 480
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cannon All_27
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 77
+        width: 308
+        height: 480
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

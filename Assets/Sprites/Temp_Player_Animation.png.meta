@@ -1,0 +1,231 @@
+fileFormatVersion: 2
+guid: 55518dc0f2eab534fb6370c0cb17a4c4
+timeCreated: 1454534599
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Temp_Player_Animation_0
+    21300002: Temp_Player_Animation_1
+    21300004: Temp_Player_Animation_2
+    21300006: Temp_Player_Animation_3
+    21300008: Temp_Player_Animation_4
+    21300010: Temp_Player_Animation_5
+    21300012: Temp_Player_Animation_6
+    21300014: Temp_Player_Animation_7
+    21300016: Temp_Player_Animation_8
+    21300018: Temp_Player_Animation_9
+    21300020: Temp_Player_Animation_10
+    21300022: Temp_Player_Animation_11
+    21300024: Temp_Player_Animation_12
+    21300026: Temp_Player_Animation_13
+    21300028: Temp_Player_Animation_14
+    21300030: Temp_Player_Animation_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Temp_Player_Animation_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 694
+        width: 180
+        height: 196
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Temp_Player_Animation_1
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 694
+        width: 159
+        height: 194
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Temp_Player_Animation_2
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 694
+        width: 126
+        height: 186
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Temp_Player_Animation_3
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 694
+        width: 154
+        height: 191
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Temp_Player_Animation_4
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 694
+        width: 185
+        height: 191
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Temp_Player_Animation_5
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 694
+        width: 173
+        height: 192
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Temp_Player_Animation_6
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 694
+        width: 139
+        height: 186
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Temp_Player_Animation_7
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 694
+        width: 139
+        height: 185
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Temp_Player_Animation_8
+      rect:
+        serializedVersion: 2
+        x: 2253
+        y: 694
+        width: 188
+        height: 182
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Temp_Player_Animation_9
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 415
+        width: 179
+        height: 195
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Temp_Player_Animation_10
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 415
+        width: 159
+        height: 193
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Temp_Player_Animation_11
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 415
+        width: 126
+        height: 185
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Temp_Player_Animation_12
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 415
+        width: 154
+        height: 189
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Temp_Player_Animation_13
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 415
+        width: 186
+        height: 189
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Temp_Player_Animation_14
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 107
+        width: 192
+        height: 91
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Temp_Player_Animation_15
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 107
+        width: 189
+        height: 113
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
